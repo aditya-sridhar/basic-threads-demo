@@ -3,7 +3,7 @@
 This code is part of a blog post.
 
 The link to the blog post is given here.
-[#](link)
+[https://adityasridhar.com/posts/how-to-get-started-with-multithreading-in-java](https://adityasridhar.com/posts/how-to-get-started-with-multithreading-in-java)
 
 Read the blog post to make the best use of this repo :)
 
